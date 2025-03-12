@@ -172,5 +172,5 @@ This project is [MIT](./LICENSE) licensed.
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by Marko
 </div>
